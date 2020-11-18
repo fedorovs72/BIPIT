@@ -1,0 +1,9 @@
+C:\Works\serega\Lab_5_and_6\WinFormClient\obj\Debug\WinFormClient.Form1.resources
+C:\Works\serega\Lab_5_and_6\WinFormClient\obj\Debug\WinFormClient.Properties.Resources.resources
+C:\Works\serega\Lab_5_and_6\WinFormClient\obj\Debug\WinFormClient.csproj.GenerateResource.cache
+C:\Works\serega\Lab_5_and_6\WinFormClient\obj\Debug\WinFormClient.csproj.CoreCompileInputs.cache
+C:\Works\serega\Lab_5_and_6\WinFormClient\bin\Debug\WinFormClient.exe.config
+C:\Works\serega\Lab_5_and_6\WinFormClient\bin\Debug\WinFormClient.exe
+C:\Works\serega\Lab_5_and_6\WinFormClient\bin\Debug\WinFormClient.pdb
+C:\Works\serega\Lab_5_and_6\WinFormClient\obj\Debug\WinFormClient.exe
+C:\Works\serega\Lab_5_and_6\WinFormClient\obj\Debug\WinFormClient.pdb

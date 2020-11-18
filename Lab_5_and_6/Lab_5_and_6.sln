@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "server", "server\server.csproj", "{4CF6AFD5-AA65-4BFF-9A58-A839B8CA3FFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormClient", "WinFormClient\WinFormClient.csproj", "{873FD606-958B-4E14-BA37-9328691BC8C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebClient", "WebClient\WebClient.csproj", "{F21D3B44-8138-4D4A-ABEC-295D8C27D2D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CF6AFD5-AA65-4BFF-9A58-A839B8CA3FFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CF6AFD5-AA65-4BFF-9A58-A839B8CA3FFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CF6AFD5-AA65-4BFF-9A58-A839B8CA3FFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CF6AFD5-AA65-4BFF-9A58-A839B8CA3FFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{873FD606-958B-4E14-BA37-9328691BC8C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{873FD606-958B-4E14-BA37-9328691BC8C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{873FD606-958B-4E14-BA37-9328691BC8C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{873FD606-958B-4E14-BA37-9328691BC8C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F21D3B44-8138-4D4A-ABEC-295D8C27D2D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F21D3B44-8138-4D4A-ABEC-295D8C27D2D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F21D3B44-8138-4D4A-ABEC-295D8C27D2D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F21D3B44-8138-4D4A-ABEC-295D8C27D2D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A4A6C28-7803-4A0A-B305-35FDA03962C2}
+	EndGlobalSection
+EndGlobal

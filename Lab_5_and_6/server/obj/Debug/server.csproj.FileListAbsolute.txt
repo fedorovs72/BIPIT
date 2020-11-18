@@ -1,0 +1,6 @@
+C:\Works\serega\Lab_5_and_6\server\bin\Debug\server.exe.config
+C:\Works\serega\Lab_5_and_6\server\bin\Debug\server.exe
+C:\Works\serega\Lab_5_and_6\server\bin\Debug\server.pdb
+C:\Works\serega\Lab_5_and_6\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Works\serega\Lab_5_and_6\server\obj\Debug\server.exe
+C:\Works\serega\Lab_5_and_6\server\obj\Debug\server.pdb
